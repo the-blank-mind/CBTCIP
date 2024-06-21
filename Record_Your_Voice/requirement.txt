@@ -1,0 +1,14 @@
+Basic Requirements for Python Voice Recorder Application
+1. Install Python: 
+	Python 3.x: Ensure you have Python 3.x installed on your system.
+	
+2. Python Libraries:
+	sounddevice: For recording and playing audio.
+	wavio: For saving the recorded audio as a WAV file.
+	tkinter: For creating the graphical user interface (GUI).
+	
+    * These can be installed via pip if not already present:
+
+3. Microphone: An external or built-in microphone to capture audio.	
+
+4. Run App: Python sound_recorder.py
