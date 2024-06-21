@@ -1,0 +1,25 @@
+## Basic Requirements for Rock Paper Scissors Game
+	
+1. Install Python:
+	Download and install Python from the official Python website. During installation, ensure you check the option to add Python to your system PATH.
+
+
+2. Install Pillow:
+	Open your terminal (or command prompt) and run:
+	
+	"pip install Pillow"
+
+
+Additional Notes
+->Tkinter: Tkinter is included with the standard Python library, so there is no need for a separate installation.
+
+
+
+## To run the Rock Paper Scissors game, you need the following:
+
+->  Once you have Python and Pillow installed, you can run the game by executing your script file:
+
+	"python rps.py"
+
+
+
